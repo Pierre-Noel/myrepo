@@ -1,1 +1,7 @@
 what is in there?
+if you want to red the content of a file use cat <file name>
+if you want to add text to a file use echo " your text " > file name
+if you want to append the file with extra text use echo " extra text" >> file name
+
+git add <file name>: let you add the file to the stagging area
+git commit -m "<message>": let you commit your file with the message describing it
